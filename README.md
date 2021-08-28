@@ -1,6 +1,6 @@
 # linear-regression
 
-a simple linear regression model without any machine learning libraries
+a simple linear regression model without any machine learning library
 
 using:
 
