@@ -12,6 +12,6 @@ y-intercept = m(y) - slope(m(x))
 
 ```diff 
 
-Note: be sure to follow the PEMDAS order of operations
++Note: be sure to follow the PEMDAS order of operations
 
 ```
