@@ -10,4 +10,8 @@ slope = (m(x) * m(y)) - m(x * y) / m(x)^2 - m(x^2)
 
 y-intercept = m(y) - slope(m(x))
 
+```diff
+
 + **_Note:_** be sure to follow the PEMDAS order of operations
+
+```
